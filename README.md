@@ -1,6 +1,6 @@
 # Markov Clustering and Degree Centrality for Bitcoin Transaction Mapping
 
-This project leverages Bitcoin transaction data to construct a comprehensive Bitcoin transaction map. By utilizing Markov clustering, the map can classify transactions into groups based on transaction amounts and frequency. For each group, we employ degree centrality techniques to identify and highlight the node with the highest degree (the node with the closest relationships within the group), referred to here as the "res dot."
+This project leverages Bitcoin transaction data to construct a comprehensive Bitcoin transaction map. By utilizing Markov clustering, the map can classify transactions into groups based on transaction amounts and frequency. For each group, we employ degree centrality techniques to identify and highlight the node with the highest degree (the node with the closest relationships within the group), referred to here as the "red dot."
 
 ## Features
 - **Bitcoin Transaction Map:** Analyze billions of transactions to visualize the Bitcoin network.
