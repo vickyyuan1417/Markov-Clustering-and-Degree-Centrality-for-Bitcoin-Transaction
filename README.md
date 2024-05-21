@@ -17,3 +17,6 @@ To get started, clone the repository and install the necessary dependencies.
 
 ## Disclaimer
 This project is intended for educational and personal use only. It is not designed for business or commercial use. Any use of this project for **business or commercial purposes is strictly prohibited**.
+
+## Contact
+For any questions or issues, please open an issue on GitHub or contact us at [vickyyuan1417@gmail.com].
